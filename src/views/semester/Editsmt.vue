@@ -3,7 +3,7 @@
     <div class="card-body">
       <h5 class="card-title">Edit Semester</h5>
       <form class="row g-3" @submit.prevent="update">
-        <div class="col-md-6">
+        <div class="col-md-6"> 
           <label for="inputEmail4" class="form-label">Semester</label>
           <input
             type="text"
